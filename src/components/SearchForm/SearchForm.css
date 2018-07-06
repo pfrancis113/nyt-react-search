@@ -1,0 +1,20 @@
+.submitBtn {
+    padding-left:30px;
+    padding-right:30px;	
+    color:#ffffff;
+    font-size:16px;
+    background-color: #003152;
+
+}
+
+.submitBtn:hover {
+background-color:#04558b;
+color:white;
+}
+ 
+.submitBtn:active {
+    background-color:#04558b;
+    color:white;
+    border: solid 2px #003152;
+
+}

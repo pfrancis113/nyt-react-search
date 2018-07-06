@@ -1,0 +1,50 @@
+.btn {
+    height: 30%;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+
+.saveBtn {
+    background-color: lightgray;
+    border: solid 2px #003152;
+    color:#003152;
+    margin-top:5px;
+
+   
+   
+}
+.saveBtn:hover{
+    background-color:darkgray;
+
+}
+
+.saveBtn:active{
+    background-color: #003152;
+    color:lightgray;
+}
+
+.viewArticle {
+    background-color: #003152;
+    color:white;
+    border: solid 2px lightgray; 
+    margin-bottom:5px;
+}
+
+
+.articleLink {
+    color:white;
+    text-decoration: none;
+}
+
+.viewArticle:hover{
+    background-color: #04558b;
+
+}
+
+.deleteBtn {
+    background-color: center;
+    border: #003152 solid 2px;
+    color: red;
+    
+}
